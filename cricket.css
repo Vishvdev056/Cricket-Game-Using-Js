@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  background-color: antiquewhite;
+}
+.choice-button{
+  border-radius: 50px;
+  margin: 10px;
+  border: none;
+  background-color: rgb(219, 149, 149);
+}
